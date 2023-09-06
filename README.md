@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 💗 i love making stuff
 - 💻 All of my projects are available at :https://github.com/Asrat001/
 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asrat001&theme=radical)](https://github.com/Asrat001/github-readme-stats)
-<!--
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Asrat001&theme=radical)](https://github.com/Asrat001/github-readme-stats)
+
 ![Asrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asrat001&show_icons=true&bg_color=00000000)
