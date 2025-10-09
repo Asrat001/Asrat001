@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as software developer at :https://www.3blenterprises.com/  
+- 🔭 I’m currently working as software developer on Something Big
+- CEO Of Azerbaijan Technology 
 - 👯 I’m looking to collaborate on  opensource projects
 - 🎓 I'm computer Engineering Gradute
 - 📫 How to reach me:asratadane169@gmail.com
