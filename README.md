@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:asratadane169@gmail.com
 - 💗 i love making things for the web and mobile
 - 💻 All of my projects are available at :https://github.com/Asrat001/
-- ⚡ Fun fact: I LOve Rust
+- ⚡ Fun fact: love Rust , i admire elixir
 
 
 
